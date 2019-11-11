@@ -1,10 +1,10 @@
 {
   "users":[{
-    "badgeid": 1038
-    "password":"strong"
+    "badgeid": "1038"
+    "password" : "strong"
   },
            {
-    "badgeid":1039,
-    "password:"strong"
+    "badgeid": "1039",
+    "password":"password"
   }]
 }

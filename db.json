@@ -6,5 +6,15 @@
            {
     "badgeid": "1039",
     "password":"password"
-  }]
+  }],
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+  
 }

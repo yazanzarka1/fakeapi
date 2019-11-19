@@ -63,7 +63,7 @@
           "issue": "",
           "expire": ""
         },
-       " heavy": {
+       "heavy": {
          " granted": true,
           "issue": "",
           "expire": ""
@@ -71,7 +71,7 @@
         "pilot": {
          " granted": false,
           "issue": "",
-         " expire": ""
+         "expire": ""
         },
         "w1": {
           "granted": true,

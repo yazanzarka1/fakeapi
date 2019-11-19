@@ -13,7 +13,62 @@
       "title": "hello"
     }
   ],
-  "citizens":[{}],
+  "citizens":[{
+    "name": "Michael Roland",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Justin Timberlake",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Jason Mars",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Michael Roland",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Tom dyme",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Thomas Shelby",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Louis Roland",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  },
+  {
+    "name": "Michael Louis",
+    "age" : "22",
+    "gender" : "Male",
+    "Number" : "913912912",
+    "additional": "He has been suffering from some major health issues"
+  }],
   "profile": {
     "name": "typicode"
   }

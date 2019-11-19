@@ -50,7 +50,6 @@
         "color2_r": "",
         "color2_g": "",
         "color2_b": ""}],
-    "properties": [],
     "priorConvictions": [{"code": "VC002", "des": "speeding"},{"code": "VC001", "des": "speeding"},{"code": "VC001", "des": "speeding"},{"code": "VC001", "des": "speeding"}],
     "licenses": {
         "driver": {
@@ -84,7 +83,7 @@
           "expire": ""
         }
       },
-      "properties":[{
+      "properties" : [{
         "address": "Mission Row #1",
         "zip": "911"
       },

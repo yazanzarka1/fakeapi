@@ -51,8 +51,40 @@
         "color2_g": "",
         "color2_b": ""}],
     "properties": [],
-    "priorConvictions": [{"code": "VC002", "des": "speeding"},{"code": "VC001", "des": "speeding"},{"code": "VC001", "des": "speeding"},{"code": "VC001", "des": "speeding"}]
-  },
+    "priorConvictions": [{"code": "VC002", "des": "speeding"},{"code": "VC001", "des": "speeding"},{"code": "VC001", "des": "speeding"},{"code": "VC001", "des": "speeding"}],
+    "licenses": {
+        "driver": {
+          "granted": true,
+          "issue": "",
+         " expire": ""
+        },
+        "bike": {
+          "granted": false,
+          "issue": "",
+          "expire": ""
+        },
+       " heavy": {
+         " granted": true,
+          "issue": "",
+          "expire": ""
+        },
+        "pilot": {
+         " granted": false,
+          "issue": "",
+         " expire": ""
+        },
+        "w1": {
+          "granted": true,
+          "issue": "",
+          "expire":""
+        },
+        "w2": {
+          "granted": false,
+          "issue": "",
+          "expire": ""
+        }
+      }
+    },
   {
     "name": "Jason Mars",
     "age" : "22",

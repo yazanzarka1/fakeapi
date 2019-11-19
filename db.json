@@ -83,7 +83,16 @@
           "issue": "",
           "expire": ""
         }
+      },
+      "properties":[{
+        "address": "Mission Row #1",
+        "zip": "911"
+      },
+      {
+        "address": "Mission Row #2",
+        "zip": "912"
       }
+    ]
     },
   {
     "name": "Jason Mars",

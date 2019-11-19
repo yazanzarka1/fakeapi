@@ -25,7 +25,10 @@
     "age" : "22",
     "gender" : "Male",
     "Number" : "913912912",
-    "additional": "He has been suffering from some major health issues"
+    "additional": "He has been suffering from some major health issues",
+    "vehicles": [],
+    "properties": [],
+    "priorConvictions": [{"code": "VC001", "des": "speeding"}]
   },
   {
     "name": "Jason Mars",
